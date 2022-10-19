@@ -1,0 +1,2 @@
+Vastatud testide arv -> 0 -- Keerukus -> Lihtne -- Hinne -> 
+Vastatud testide arv -> 0 -- Keerukus -> Lihtne -- Hinne -> 3

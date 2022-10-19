@@ -1,0 +1,58 @@
+H:\Website\RegistrationAndLogin\bin\Debug\Database.mdf
+H:\Website\RegistrationAndLogin\bin\Debug\Database_log.ldf
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csprojAssemblyReference.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\Database.mdf
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\Database_log.ldf
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csprojAssemblyReference.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\bin\Debug\Database.mdf
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\bin\Debug\Database_log.ldf
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\opilane\source\repos\TTT\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\bin\Debug\Database.mdf
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\bin\Debug\Database_log.ldf
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\opilane\source\repos\TTT\3 games\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
